@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1526117994 source:c:\users\gabriel\desktop\info\projetinfo\main.c
+	"header.h"
+
+1525852252 c:\users\gabriel\desktop\info\projetinfo\header.h
+	<allegro.h>
+	<stdio.h>
+
+1526079735 source:c:\users\gabriel\desktop\info\projetinfo\fonctions.c
+	"header.h"
+
+1526076134 source:c:\users\gab-a\onedrive\bureau\projetinfo\fonctions.c
+	"header.h"
+
+1525848652 c:\users\gab-a\onedrive\bureau\projetinfo\header.h
+	<allegro.h>
+	<stdio.h>
+
+1526114850 source:c:\users\gab-a\onedrive\bureau\projetinfo\main.c
+	"header.h"
+
