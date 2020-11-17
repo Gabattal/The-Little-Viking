@@ -2,19 +2,19 @@
 
 Video game : the concept is to teach the basics of the programmation to beginners.
 
-## Technologies used
+## Technologies used:
 
 * C
 * Allegro
 
-## Features
+## Features:
 
 * Multiple levels
 * Animations
 * Saving System
 
 
-## Screenshots :
+## Screenshots:
 <div style= "text-align : center">
 <img src="https://user-images.githubusercontent.com/26858750/99318623-54d6b880-2868-11eb-926f-f6bb2b324de3.png" alt="drawing" width="300"/>
 
