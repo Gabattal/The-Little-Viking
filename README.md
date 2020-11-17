@@ -1,6 +1,6 @@
-# The_Little_Viking / 29/04/2018
+# The Little Viking
 
-Video game : the concept is to teach the basics of the programmation to beginners.
+Video game: teach the basics of the programmation to beginners (04/2018).
 
 ## Technologies used:
 
